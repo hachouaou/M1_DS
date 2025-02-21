@@ -1,0 +1,101 @@
+nom_parfum,marque,nose,launch_year,rating_value,rating_count,main_accords,gender,longevity,sillage,price_feeling,top_notes,middle_notes,base_notes
+Acqua di Parma Colonia,Acqua di Parma,,1916,4.15,"3,500","['citrus', 'aromatic', 'fresh spicy', 'woody', 'lavender', 'fresh']",male,moderate,average,ok,[],[],[]
+Acqua di Parma Colonia Assoluta,Acqua di Parma,Bertrand Duchaufour,2003,4.22,"1,167","['citrus', 'woody', 'aromatic', 'earthy', 'fresh spicy', 'yellow floral', 'sweet', 'warm spicy']",male,moderate,average,ok,"['Lemon Verbena', 'Sweet Orange', 'Bergamot', 'Bitter Orange']","['Paprika', 'Pink Pepper', 'Ylang-Ylang', 'Jasmine', 'Cedar', 'Cardamom', 'Vetiver']","['White Musk', 'Patchouli', 'Resins', 'Oakmoss']"
+Acqua di Parma Colonia Assoluta Edizione Riviera,Acqua di Parma,Bertrand Duchaufour,2007,3.43,14,"['citrus', 'woody', 'aromatic', 'fresh spicy', 'rose', 'sweet']",,,average,,"['Bergamot', 'Orange', 'Sicilian Lemon']","['Lemon Verbena', 'Lavender', 'Bulgarian Rose']","['Rosemary', 'Cedar', 'Sandalwood', 'Ylang-Ylang']"
+Acqua di Parma Colonia Assoluta Edizione Speciale 2011,Acqua di Parma,,,3.67,9,"['aromatic', 'fresh spicy', 'lavender', 'white floral', 'citrus', 'amber', 'rose', 'musky', 'woody', 'floral']",,,strong,,[],[],[]
+Acqua di Parma Colonia Designer Edition,Acqua di Parma,,2011,4.08,12,"['citrus', 'amber', 'fresh spicy', 'fresh', 'aromatic', 'lavender', 'musky', 'rose', 'powdery', 'floral']",,,strong,,"['Rosemary', 'Lavender', 'Citruses']","['Rose', 'Jasmine']","['Amber', 'Musk']"
+Acqua di Parma Colonia Edizione Centenario,Acqua di Parma,,2016,3.75,4,"['citrus', 'aromatic', 'woody', 'fresh spicy', 'powdery', 'white floral', 'lavender', 'musky', 'rose', 'earthy']",,,,,"['Rosemary', 'Lemon Verbena', 'Citruses', 'Lemon']","['Rose', 'Lavender', 'Jasmine']","['Sandalwood', 'Musk', 'Amber', 'Vetiver', 'Patchouli']"
+Acqua di Parma Colonia Pura,Acqua di Parma,François Demachy,2017,4.01,"1,316","['citrus', 'ozonic', 'aromatic', 'fresh spicy', 'green', 'white floral', 'woody', 'musky', 'yellow floral', 'powdery']",male,moderate,average,ok,"['Orange', 'Bergamot', 'Petitgrain', 'Ozonic notes']","['Coriander', 'Jasmine Sambac', 'Narcissus']","['Cedar', 'White Musk', 'Patchouli']"
+Acqua di Parma Gelsomino Nobile,Acqua di Parma,François Demachy,2011,4.09,902,"['white floral', 'tuberose', 'citrus']",female,moderate,average,ok,"['Mandarin Orange', 'Pink Pepper']","['Tuberose', 'Orange Blossom', 'Jasmine']","['Musk', 'Cedar']"
+Acqua di Parma Iris Nobile,Acqua di Parma,Francis Kurkdjian,2006,4.01,"1,901","['white floral', 'powdery', 'citrus', 'yellow floral', 'iris', 'tuberose', 'sweet', 'floral', 'woody', 'violet']",female,moderate,average,ok,"['Mandarin Orange', 'Star Anise', 'Orange', 'Iris', 'Bergamot']","['Orange Blossom', 'Tuberose', 'Mimosa', 'Ylang-Ylang', 'Hibiscus', 'Cedar']","['Amber', 'Vanilla']"
+Acqua di Parma Iris Nobile Edizione Speciale 2008,Acqua di Parma,,2008,4.17,89,"['iris', 'powdery', 'citrus', 'earthy', 'woody', 'violet', 'vanilla', 'mossy', 'yellow floral', 'patchouli']",,eternal,average,,"['Mandarin Orange', 'Star Anise', 'Bergamot']","['Ylang-Ylang', 'Iris']","['Patchouli', 'Vanilla', 'Oakmoss']"
+Acqua di Parma Magnolia Nobile,Acqua di Parma,Antoine Maisondieu,2009,4.12,"2,477","['citrus', 'floral', 'white floral', 'aromatic', 'woody']",female,moderate,average,ok,"['Citron', 'Bergamot', 'Lemon']","['Magnolia', 'Tuberose', 'Rose', 'Jasmine']","['Vanilla', 'Vetiver', 'Sandalwood', 'Patchouli']"
+Acqua di Parma Magnolia Nobile Special Edition,Acqua di Parma,,2010,3.87,47,"['floral', 'citrus', 'woody', 'white floral', 'vanilla', 'aromatic', 'rose', 'powdery', 'tuberose', 'earthy']",,eternal,enormous,,"['Amalfi Lemon', 'Bergamot', 'Virginia Cedar']","['Magnolia', 'Tuberose', 'Rose', 'Jasmine']","['Vetyver', 'Vanille', 'Sandalwood', 'Patchouli']"
+Acqua di Parma Profumo,Acqua di Parma,,1930,4.29,270,"['woody', 'rose', 'yellow floral', 'white floral', 'floral', 'sweet', 'aromatic', 'earthy', 'musky', 'powdery']",female,long lasting,enormous,ok,"['Ylang-Ylang', 'Bergamot', 'Peony']","['Jasmine', 'Labdanum', 'Bulgarian Rose']","['Musk', 'Vetiver', 'Sandalwood', 'Patchouli']"
+Acqua di Parma Profumo 2008,Acqua di Parma,François Demachy,2008,4.29,119,"['woody', 'amber', 'earthy', 'floral', 'mossy', 'yellow floral', 'white floral', 'rose', 'citrus', 'patchouli']",,long lasting,average,,"['Ylang-Ylang', 'Bergamot', 'Peony']","['Amber', 'Rose', 'French labdanum', 'Jasmine']","['Oakmoss', 'Sandalwood', 'Musk', 'Vetiver', 'Patchouli']"
+Colonia Artist Edition by Clym Evernden,Acqua di Parma,,2018,4.75,4,"['woody', 'aromatic', 'citrus', 'earthy', 'powdery', 'fresh spicy', 'fresh', 'warm spicy']",,,,,[],[],[]
+Colonia Assoluta Edizione Speciale 2013,Acqua di Parma,Bertrand Duchaufour,2013,4.20,15,"['citrus', 'woody', 'warm spicy', 'aromatic', 'earthy', 'musky', 'sweet', 'mossy', 'yellow floral', 'white floral']",,,,,"['Lemon Verbena', 'Sweet Orange', 'Bergamot', 'Bitter Orange']","['Pimento', 'Jasmine', 'Ylang-Ylang', 'Pink Pepper', 'Cedar', 'Cardamom', 'Vetiver']","['Amber', 'Musk', 'Moss', 'Patchouli']"
+Colonia Assoluta In Villa,Acqua di Parma,,2009,4.39,33,"['woody', 'citrus', 'warm spicy', 'fresh']",,long lasting,average,,[],[],[]
+Colonia C L U B,Acqua di Parma,,2022,4.00,484,"['aromatic', 'fresh spicy', 'citrus', 'woody', 'green', 'musky', 'powdery']",male,moderate,average,ok,"['Pink Pepper', 'Bergamot', 'Black Pepper', 'Lemon']","['Rosemary', 'Shiso']","['Musk', 'Cedar']"
+Colonia Club,Acqua di Parma,,2015,4.03,"1,335","['aromatic', 'citrus', 'green', 'fresh spicy', 'lavender']",male,moderate,average,ok,"['Mandarin Orange', 'Mint', 'Neroli', 'Petitgrain', 'Lemon', 'Bergamot']","['Galbanum', 'Geranium', 'Lavender']","['Musk', 'Ambergris', 'Haitian Vetiver']"
+Colonia Essenza Special Edition 2015,Acqua di Parma,,2015,4.45,47,"['citrus', 'aromatic', 'white floral', 'woody', 'fresh spicy', 'earthy', 'green', 'mossy', 'warm spicy', 'herbal']",male,long lasting,strong,good value,"['Mandarin Orange', 'Orange', 'Petitgrain', 'Grapefruit', 'Bergamot']","['Neroli', 'Rosemary', 'Rose', 'Lily-of-the-Valley', 'Jasmine', 'Sage']","['Moss', 'Musk', 'Amber', 'Vetiver', 'Cloves', 'Patchouli']"
+Colonia Futura,Acqua di Parma,,2020,3.83,690,"['citrus', 'aromatic', 'fresh spicy', 'woody', 'lavender', 'herbal', 'soft spicy', 'earthy']",male,moderate,average,ok,"['Grapefruit', 'Pink Pepper', 'Bergamot', 'Lemon']","['Sage', 'Lavender']",['Vetiver']
+Colonia Il Profumo,Acqua di Parma,,2025,4.24,78,"['citrus', 'woody', 'aromatic', 'fresh spicy', 'sweet', 'earthy']",male,long lasting,strong,ok,"['Orange', 'Petitgrain', 'Lemon', 'Bergamot', 'Pineapple']","['Neroli', 'Rose', 'Lavender', 'Verbena', 'Ylang-Ylang']","['Sandalwood', 'Moss', 'Leather', 'Cedar', 'Vetiver', 'Patchouli']"
+Colonia Intensa,Acqua di Parma,Alberto Morillas,2007,4.26,"2,064","['citrus', 'warm spicy', 'aromatic', 'woody', 'fresh spicy', 'leather', 'fresh', 'herbal', 'amber']",male,moderate,average,ok,"['Cardamom', 'Ginger', 'Sicilian Lemon', 'Calabrian bergamot']","['Neroli', 'Artemisia', 'Myrtle']","['Leather', 'Musk', 'Cedar', 'Benzoin', 'Patchouli']"
+Essenza di Colonia,Acqua di Parma,,2010,4.34,"3,696","['citrus', 'aromatic', 'white floral', 'fresh spicy', 'woody', 'green']",male,moderate,average,ok,[],[],[]
+Gelsomino Nobile Edizione Speciale,Acqua di Parma,,2014,3.78,32,"['white floral', 'citrus', 'tuberose', 'musky', 'woody', 'animalic']",,,enormous,,"['Mandarin Orange', 'Pink Pepper']","['Tuberose', 'Orange Blossom', 'Jasmine']","['Musk', 'Cedar']"
+Iris Nobile 10th Anniversary Special Edition,Acqua di Parma,Francis Kurkdjian,2014,3.78,27,"['powdery', 'citrus', 'yellow floral', 'floral', 'sweet', 'woody', 'white floral', 'iris', 'soft spicy', 'anis']",,moderate,average,,"['Mandarin Orange', 'Star Anise', 'Orange', 'Iris Flower', 'Bergamot']","['Orange Blossom', 'Tuberose', 'Mimosa', 'Ylang-Ylang', 'Hibiscus', 'Cedar']","['Vanila', 'Amber']"
+Iris Nobile Edizione Speziale,Acqua di Parma,,2010,3.88,50,"['citrus', 'iris', 'woody', 'yellow floral', 'earthy', 'floral', 'sweet', 'powdery', 'musky', 'anis']",,,enormous,,"['Mandarin Orange', 'Anise', 'Bergamot']","['Ylang-Ylang', 'Iris']","['oak moss', 'Ambrette (Musk Mallow)', 'Patchouli']"
+Iris Nobile Sublime,Acqua di Parma,,2012,4.04,259,"['white floral', 'citrus', 'iris', 'woody', 'sweet', 'powdery', 'yellow floral', 'violet', 'floral']",female,moderate,average,ok,"['Mandarin Orange', 'Neroli']","['Ylang-Ylang', 'Jasmine Sambac', 'Orange Blossom', 'Tuscan Iris']","['Cedar', 'Birch', 'Black locust']"
+Magnolia Nobile Special Edition,Acqua di Parma,,2012,3.98,46,"['citrus', 'floral', 'white floral', 'woody', 'tuberose', 'fresh', 'rose', 'fresh spicy', 'aromatic']",female,moderate,average,,"['Cedar', 'Bergamot', 'Citruses']","['Magnolia', 'Tuberose', 'Rose', 'Jasmine']","['Vanilla', 'Vetiver', 'Sandalwood', 'Patchouli']"
+Magnolia Nobile Special Edition 2016,Acqua di Parma,,2016,4.00,54,"['citrus', 'woody', 'floral', 'white floral', 'aromatic', 'rose', 'tuberose', 'powdery', 'vanilla', 'earthy']",female,moderate,average,ok,"['Cedar', 'Bergamot', 'Lemon']","['Magnolia', 'Tuberose', 'Rose', 'Jasmine']","['Patchouli', 'Vanilla', 'Sandalwood', 'Vetiver']"
+Peonia Nobile,Acqua di Parma,François Demachy,2016,3.78,"1,193","['rose', 'floral', 'fresh spicy', 'fresh', 'fruity', 'sweet', 'warm spicy', 'patchouli', 'aromatic']",female,moderate,average,ok,[],[],[]
+Peonia Nobile Edizione Speciale,Acqua di Parma,,2017,3.89,35,"['floral', 'fresh', 'rose', 'amber', 'fresh spicy', 'fruity', 'patchouli', 'warm spicy', 'sweet', 'woody']",,weak,intimate,,"['Raspberry', 'Black Pepper']","['Geranium', 'Peony']","['Amber', 'Patchouli']"
+Profumo Eau de Parfum,Acqua di Parma,,2009,4.44,234,"['woody', 'floral', 'yellow floral', 'amber', 'rose', 'musky', 'aromatic', 'powdery', 'earthy', 'citrus']",female,moderate,strong,ok,"['Ylang-Ylang', 'Bergamot', 'Peony']","['Jasmine', 'Labdanum', 'Bulgarian Rose']","['Patchouli', 'Musk', 'Sandalwood', 'Vetiver']"
+Rosa Nobile,Acqua di Parma,François Demachy,2014,3.91,"1,458","['rose', 'floral', 'fresh', 'citrus', 'powdery', 'musky', 'fresh spicy', 'violet', 'woody']",female,moderate,average,ok,"['Mandarin Orange', 'Bergamot', 'Pepper']","['Violet', 'Rose', 'Peony', 'Lily-of-the-Valley']","['Musk', 'Cedar', 'Ambergris']"
+Rosa Nobile Edizione Speciale,Acqua di Parma,,2015,3.95,19,"['floral', 'rose', 'citrus', 'fresh', 'powdery', 'violet', 'fresh spicy', 'woody', 'amber', 'white floral']",,moderate,enormous,,"['Mandarin Orange', 'Bergamot', 'Pepper']","['Violet', 'Rose', 'Peony', 'Lily-of-the-Valley']","['Musk', 'Cedar', 'Ambergris']"
+Acqua Nobile Gelsomino,Acqua di Parma,,2013,4.13,204,"['citrus', 'white floral', 'aromatic', 'fresh spicy', 'green']",female,moderate,average,overpriced,[],[],[]
+Acqua Nobile Iris,Acqua di Parma,,2013,4.09,209,"['citrus', 'white floral', 'iris', 'powdery']",female,moderate,average,ok,"['Citron', 'Grapefruit', 'Mandarin Orange']","['Neroli', 'Iris', 'Orange Blossom', 'Violet Leaves']","['Musk', 'Vanilla']"
+Acqua Nobile Magnolia,Acqua di Parma,,2013,4.04,197,"['citrus', 'floral', 'white floral', 'fresh']",female,moderate,intimate,ok,"['Mandarin Orange', 'Neroli', 'Citron', 'Lemon', 'Bergamot']","['Orange Blossom', 'Jasmine', 'Lily-of-the-Valley', 'Magnolia', 'Freesia']","['Musk', 'Vanilla']"
+Acqua Nobile Rosa,Acqua di Parma,,2015,3.88,145,"['rose', 'floral', 'citrus', 'fruity', 'musky', 'fresh spicy', 'powdery', 'animalic']",female,moderate,average,overpriced,"['Mandarin Orange', 'Bergamot', 'Black Currant']","['Damask Rose', 'Cyclamen', 'Rose', 'Freesia', 'Black Pepper']","['Musk', 'Ambergris']"
+Acqua di Parma Blu Mediterraneo Arancia La Spugnatura,Acqua di Parma,François Demachy,2023,4.09,231,"['citrus', 'fresh spicy', 'sweet', 'woody']",unisex,moderate,average,overpriced,"['Mandarin Orange', 'Lemon', 'Sicilian Orange']","['Bitter Almond', 'Black Pepper']","['Musk', 'Cedar']"
+Acqua di Parma Blu Mediterraneo Cipresso di Toscana,Acqua di Parma,Bertrand Duchaufour,2005,3.96,875,"['aromatic', 'woody', 'fresh spicy', 'green', 'herbal']",male,moderate,average,ok,"['Basil', 'Rosemary', 'Petitgrain', 'Sage', 'Grapefruit']","['Lavender', 'Jasmine', 'Pine Tree', 'Coriander', 'Lily-of-the-Valley', 'Cardamom']","['Silver Pine', 'Cypress', 'Oakmoss', 'Cedar', 'Vetiver', 'Patchouli']"
+Acqua di Parma Blu Mediterraneo Fico di Amalfi,Acqua di Parma,,2006,4.32,"6,954","['citrus', 'woody', 'fruity', 'sweet', 'fresh spicy', 'aromatic']",unisex,moderate,average,ok,"['Citron', 'Grapefruit', 'Bergamot', 'Lemon']","['Jasmine', 'Pink Pepper', 'Fig Nectar']","['Cedar', 'Benzoin', 'Fig Tree']"
+Acqua di Parma Blu Mediterraneo Ginepro di Sardegna,Acqua di Parma,Mélanie Carestia,2014,4.19,915,"['fresh spicy', 'aromatic', 'woody']",male,moderate,average,ok,"['Pepper', 'Juniper', 'Bergamot', 'Allspice', 'Nutmeg']","['Sage', 'Cypress']",['Virginia Cedar']
+Acqua di Parma Blu Mediterraneo Mandorlo di Sicilia,Acqua di Parma,,1999,4.11,"4,390","['vanilla', 'almond', 'sweet', 'powdery', 'fruity', 'soft spicy', 'nutty', 'anis', 'floral', 'citrus']",unisex,moderate,average,ok,"['Star Anise', 'Green Almond', 'Orange', 'Bergamot']","['White Peach', 'Ylang-Ylang', 'Jasmine']","['Tolu Balsam', 'Cedar', 'White Musk', 'Bourbon Vanilla']"
+Acqua di Parma Blu Mediterraneo Arancia di Capri,Acqua di Parma,,1999,4.15,"3,253",['citrus'],unisex,moderate,intimate,ok,"['Bergamot', 'Orange', 'Lemon', 'Sicilian Mandarin']","['Cardamom', 'Petitgrain']","['Musk', 'Caramel']"
+Acqua di Parma Blu Mediterraneo Bergamotto di Calabria,Acqua di Parma,,2010,4.12,"2,339","['citrus', 'woody', 'aromatic', 'fresh spicy', 'warm spicy']",unisex,weak,intimate,ok,"['Citron', 'Bergamot']","['Cedar', 'Ginger', 'Flowers']","['Musk', 'Vetyver', 'Benzoin']"
+Acqua di parma Blue Mediterraneo Mirto di Panarea,Acqua di Parma,François Demachy,2008,4.10,"2,827","['aromatic', 'fresh spicy', 'citrus', 'herbal', 'woody', 'marine']",unisex,moderate,average,ok,"['Basil', 'Lemon', 'Bergamot', 'Myrtle']","['Rose', 'Sea Notes', 'Jasmine']","['Amber', 'Cedar', 'Juniper', 'Mastic or Lentisque']"
+Bergamotto di Calabria La Spugnatura,Acqua di Parma,,2021,4.11,229,"['citrus', 'fresh spicy', 'aromatic']",unisex,moderate,average,ok,['Bergamot'],"['Grapefruit', 'Orange', 'Mandarin Orange']","['Geranium', 'Fennel']"
+Blue Mediterraneo Mirto di Panarea Limited Edition 2024,Acqua di Parma,,2024,3.58,24,"['citrus', 'aromatic', 'fresh spicy', 'white floral', 'amber', 'woody', 'herbal', 'fresh', 'floral']",unisex,moderate,average,ok,"['Basil', 'Italian Lemon', 'Bergamot', 'Myrtle']","['Damask Rose', 'Jasmine']","['Amber', 'Juniper', 'Cedarwood']"
+Cedro di Taormina,Acqua di Parma,,2016,4.17,709,"['woody', 'fresh spicy', 'aromatic', 'citrus', 'green', 'lavender', 'fresh', 'herbal']",male,moderate,average,ok,"['Basil', 'Petitgrain', 'Citruses']","['Lavender', 'Black Pepper']","['Virginian Cedar', 'Vetiver', 'Labdanum']"
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
+,,,,,,[],,,,,[],[],[]
